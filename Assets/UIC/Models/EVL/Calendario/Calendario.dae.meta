@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: bd3ed0d3eb76a9243b459b7712193ea8
+timeCreated: 1506291208
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Component_1
+    100004: Component_1 1
+    100006: Component_2
+    100008: Component_2 1
+    100010: Component_2 10
+    100012: Component_2 11
+    100014: Component_2 12
+    100016: Component_2 13
+    100018: Component_2 14
+    100020: Component_2 15
+    100022: Component_2 16
+    100024: Component_2 17
+    100026: Component_2 18
+    100028: Component_2 19
+    100030: Component_2 2
+    100032: Component_2 3
+    100034: Component_2 4
+    100036: Component_2 5
+    100038: Component_2 6
+    100040: Component_2 7
+    100042: Component_2 8
+    100044: Component_2 9
+    100046: Component_3
+    100048: Component_4
+    100050: ID19
+    100052: ID19 1
+    100054: instance_0
+    100056: instance_1
+    100058: instance_10
+    100060: instance_11
+    100062: instance_12
+    100064: instance_13
+    100066: instance_14
+    100068: instance_15
+    100070: instance_16
+    100072: instance_17
+    100074: instance_18
+    100076: instance_19
+    100078: instance_2
+    100080: instance_20
+    100082: instance_21
+    100084: instance_22
+    100086: instance_23
+    100088: instance_3
+    100090: instance_4
+    100092: instance_5
+    100094: instance_6
+    100096: instance_7
+    100098: instance_8
+    100100: instance_9
+    100102: skp_camera_Last_Saved_SketchUp_View
+    400000: //RootNode
+    400002: Component_1
+    400004: Component_1 1
+    400006: Component_2
+    400008: Component_2 1
+    400010: Component_2 10
+    400012: Component_2 11
+    400014: Component_2 12
+    400016: Component_2 13
+    400018: Component_2 14
+    400020: Component_2 15
+    400022: Component_2 16
+    400024: Component_2 17
+    400026: Component_2 18
+    400028: Component_2 19
+    400030: Component_2 2
+    400032: Component_2 3
+    400034: Component_2 4
+    400036: Component_2 5
+    400038: Component_2 6
+    400040: Component_2 7
+    400042: Component_2 8
+    400044: Component_2 9
+    400046: Component_3
+    400048: Component_4
+    400050: ID19
+    400052: ID19 1
+    400054: instance_0
+    400056: instance_1
+    400058: instance_10
+    400060: instance_11
+    400062: instance_12
+    400064: instance_13
+    400066: instance_14
+    400068: instance_15
+    400070: instance_16
+    400072: instance_17
+    400074: instance_18
+    400076: instance_19
+    400078: instance_2
+    400080: instance_20
+    400082: instance_21
+    400084: instance_22
+    400086: instance_23
+    400088: instance_3
+    400090: instance_4
+    400092: instance_5
+    400094: instance_6
+    400096: instance_7
+    400098: instance_8
+    400100: instance_9
+    400102: skp_camera_Last_Saved_SketchUp_View
+    2300000: Component_1
+    2300002: Component_1 1
+    2300004: Component_2
+    2300006: Component_2 1
+    2300008: Component_2 10
+    2300010: Component_2 11
+    2300012: Component_2 12
+    2300014: Component_2 13
+    2300016: Component_2 14
+    2300018: Component_2 15
+    2300020: Component_2 16
+    2300022: Component_2 17
+    2300024: Component_2 18
+    2300026: Component_2 19
+    2300028: Component_2 2
+    2300030: Component_2 3
+    2300032: Component_2 4
+    2300034: Component_2 5
+    2300036: Component_2 6
+    2300038: Component_2 7
+    2300040: Component_2 8
+    2300042: Component_2 9
+    2300044: ID19
+    2300046: ID19 1
+    3300000: Component_1
+    3300002: Component_1 1
+    3300004: Component_2
+    3300006: Component_2 1
+    3300008: Component_2 10
+    3300010: Component_2 11
+    3300012: Component_2 12
+    3300014: Component_2 13
+    3300016: Component_2 14
+    3300018: Component_2 15
+    3300020: Component_2 16
+    3300022: Component_2 17
+    3300024: Component_2 18
+    3300026: Component_2 19
+    3300028: Component_2 2
+    3300030: Component_2 3
+    3300032: Component_2 4
+    3300034: Component_2 5
+    3300036: Component_2 6
+    3300038: Component_2 7
+    3300040: Component_2 8
+    3300042: Component_2 9
+    3300044: ID19
+    3300046: ID19 1
+    4300000: Component_1
+    4300002: ID19
+    4300004: Component_2
+    6400000: Component_1
+    6400002: Component_1 1
+    6400004: Component_2
+    6400006: Component_2 1
+    6400008: Component_2 10
+    6400010: Component_2 11
+    6400012: Component_2 12
+    6400014: Component_2 13
+    6400016: Component_2 14
+    6400018: Component_2 15
+    6400020: Component_2 16
+    6400022: Component_2 17
+    6400024: Component_2 18
+    6400026: Component_2 19
+    6400028: Component_2 2
+    6400030: Component_2 3
+    6400032: Component_2 4
+    6400034: Component_2 5
+    6400036: Component_2 6
+    6400038: Component_2 7
+    6400040: Component_2 8
+    6400042: Component_2 9
+    6400044: ID19
+    6400046: ID19 1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.08
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

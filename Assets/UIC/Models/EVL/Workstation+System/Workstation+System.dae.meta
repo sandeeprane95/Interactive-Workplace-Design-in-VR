@@ -1,0 +1,822 @@
+fileFormatVersion: 2
+guid: 5ee0c01961114d543b3a8ae6ca8c1277
+timeCreated: 1506211796
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: group_0
+    100002: group_1
+    100004: group_10
+    100006: group_11
+    100008: group_12
+    100010: group_13
+    100012: group_14
+    100014: group_15
+    100016: group_16
+    100018: group_17
+    100020: group_18
+    100022: group_18 1
+    100024: group_19
+    100026: group_19 1
+    100028: group_2
+    100030: group_20
+    100032: group_20 1
+    100034: group_21
+    100036: group_21 1
+    100038: group_22
+    100040: group_22 1
+    100042: group_23
+    100044: group_23 1
+    100046: group_24
+    100048: group_24 1
+    100050: group_25
+    100052: group_25 1
+    100054: group_26
+    100056: group_26 1
+    100058: group_27
+    100060: group_27 1
+    100062: group_28
+    100064: group_28 1
+    100066: group_29
+    100068: group_29 1
+    100070: group_3
+    100072: group_30
+    100074: group_31
+    100076: group_32
+    100078: group_33
+    100080: group_33 1
+    100082: group_34
+    100084: group_34 1
+    100086: group_35
+    100088: group_35 1
+    100090: group_36
+    100092: group_37
+    100094: group_38
+    100096: Group_383
+    100098: Group_383 1
+    100100: Group_383 2
+    100102: Group_383 3
+    100104: Group_384
+    100106: Group_384 1
+    100108: Group_384 2
+    100110: Group_384 3
+    100112: group_39
+    100114: Group_398
+    100116: Group_398 1
+    100118: Group_398 2
+    100120: Group_398 3
+    100122: group_4
+    100124: group_40
+    100126: Group_404
+    100128: Group_404 1
+    100130: Group_404 2
+    100132: Group_404 3
+    100134: Group_404 4
+    100136: Group_404 5
+    100138: Group_404 6
+    100140: Group_404 7
+    100142: Group_405
+    100144: Group_405 1
+    100146: Group_405 10
+    100148: Group_405 11
+    100150: Group_405 12
+    100152: Group_405 2
+    100154: Group_405 3
+    100156: Group_405 4
+    100158: Group_405 5
+    100160: Group_405 6
+    100162: Group_405 7
+    100164: Group_405 8
+    100166: Group_405 9
+    100168: group_41
+    100170: group_42
+    100172: group_43
+    100174: group_44
+    100176: group_45
+    100178: group_46
+    100180: group_47
+    100182: group_5
+    100184: group_6
+    100186: group_7
+    100188: Group_751
+    100190: Group_751 1
+    100192: group_8
+    100194: group_9
+    100196: ID105
+    100198: ID126
+    100200: ID147
+    100202: ID707
+    100204: ID715
+    100206: ID725
+    100208: ID733
+    100210: ID741
+    100212: ID749
+    100214: ID757
+    100216: ID765
+    100218: ID773
+    100220: ID781
+    100222: ID789
+    100224: ID813
+    100226: ID821
+    100228: ID831
+    100230: ID839
+    100232: ID847
+    100234: ID855
+    100236: ID863
+    100238: ID871
+    100240: ID879
+    100242: ID887
+    100244: ID895
+    100246: instance_0
+    100248: instance_1
+    100250: instance_10
+    100252: instance_11
+    100254: instance_12
+    100256: instance_13
+    100258: instance_14
+    100260: instance_15
+    100262: instance_16
+    100264: instance_17
+    100266: instance_17 1
+    100268: instance_18
+    100270: instance_18 1
+    100272: instance_19
+    100274: instance_19 1
+    100276: instance_2
+    100278: instance_20
+    100280: instance_20 1
+    100282: instance_21
+    100284: instance_22
+    100286: instance_23
+    100288: instance_24
+    100290: instance_25
+    100292: instance_26
+    100294: instance_27
+    100296: instance_28
+    100298: instance_29
+    100300: instance_3
+    100302: instance_30
+    100304: instance_31
+    100306: instance_32
+    100308: instance_32 1
+    100310: instance_33
+    100312: instance_33 1
+    100314: instance_34
+    100316: instance_4
+    100318: instance_5
+    100320: instance_6
+    100322: instance_7
+    100324: instance_8
+    100326: instance_9
+    100328: ske1CD_1
+    100330: ske1CD_1 1
+    100332: skp14B
+    100334: skp14B 1
+    100336: skp_camera_Last_Saved_SketchUp_View
+    100338: //RootNode
+    100340: ZChair
+    100342: ZChair 1
+    400000: group_0
+    400002: group_1
+    400004: group_10
+    400006: group_11
+    400008: group_12
+    400010: group_13
+    400012: group_14
+    400014: group_15
+    400016: group_16
+    400018: group_17
+    400020: group_18
+    400022: group_18 1
+    400024: group_19
+    400026: group_19 1
+    400028: group_2
+    400030: group_20
+    400032: group_20 1
+    400034: group_21
+    400036: group_21 1
+    400038: group_22
+    400040: group_22 1
+    400042: group_23
+    400044: group_23 1
+    400046: group_24
+    400048: group_24 1
+    400050: group_25
+    400052: group_25 1
+    400054: group_26
+    400056: group_26 1
+    400058: group_27
+    400060: group_27 1
+    400062: group_28
+    400064: group_28 1
+    400066: group_29
+    400068: group_29 1
+    400070: group_3
+    400072: group_30
+    400074: group_31
+    400076: group_32
+    400078: group_33
+    400080: group_33 1
+    400082: group_34
+    400084: group_34 1
+    400086: group_35
+    400088: group_35 1
+    400090: group_36
+    400092: group_37
+    400094: group_38
+    400096: Group_383
+    400098: Group_383 1
+    400100: Group_383 2
+    400102: Group_383 3
+    400104: Group_384
+    400106: Group_384 1
+    400108: Group_384 2
+    400110: Group_384 3
+    400112: group_39
+    400114: Group_398
+    400116: Group_398 1
+    400118: Group_398 2
+    400120: Group_398 3
+    400122: group_4
+    400124: group_40
+    400126: Group_404
+    400128: Group_404 1
+    400130: Group_404 2
+    400132: Group_404 3
+    400134: Group_404 4
+    400136: Group_404 5
+    400138: Group_404 6
+    400140: Group_404 7
+    400142: Group_405
+    400144: Group_405 1
+    400146: Group_405 10
+    400148: Group_405 11
+    400150: Group_405 12
+    400152: Group_405 2
+    400154: Group_405 3
+    400156: Group_405 4
+    400158: Group_405 5
+    400160: Group_405 6
+    400162: Group_405 7
+    400164: Group_405 8
+    400166: Group_405 9
+    400168: group_41
+    400170: group_42
+    400172: group_43
+    400174: group_44
+    400176: group_45
+    400178: group_46
+    400180: group_47
+    400182: group_5
+    400184: group_6
+    400186: group_7
+    400188: Group_751
+    400190: Group_751 1
+    400192: group_8
+    400194: group_9
+    400196: ID105
+    400198: ID126
+    400200: ID147
+    400202: ID707
+    400204: ID715
+    400206: ID725
+    400208: ID733
+    400210: ID741
+    400212: ID749
+    400214: ID757
+    400216: ID765
+    400218: ID773
+    400220: ID781
+    400222: ID789
+    400224: ID813
+    400226: ID821
+    400228: ID831
+    400230: ID839
+    400232: ID847
+    400234: ID855
+    400236: ID863
+    400238: ID871
+    400240: ID879
+    400242: ID887
+    400244: ID895
+    400246: instance_0
+    400248: instance_1
+    400250: instance_10
+    400252: instance_11
+    400254: instance_12
+    400256: instance_13
+    400258: instance_14
+    400260: instance_15
+    400262: instance_16
+    400264: instance_17
+    400266: instance_17 1
+    400268: instance_18
+    400270: instance_18 1
+    400272: instance_19
+    400274: instance_19 1
+    400276: instance_2
+    400278: instance_20
+    400280: instance_20 1
+    400282: instance_21
+    400284: instance_22
+    400286: instance_23
+    400288: instance_24
+    400290: instance_25
+    400292: instance_26
+    400294: instance_27
+    400296: instance_28
+    400298: instance_29
+    400300: instance_3
+    400302: instance_30
+    400304: instance_31
+    400306: instance_32
+    400308: instance_32 1
+    400310: instance_33
+    400312: instance_33 1
+    400314: instance_34
+    400316: instance_4
+    400318: instance_5
+    400320: instance_6
+    400322: instance_7
+    400324: instance_8
+    400326: instance_9
+    400328: ske1CD_1
+    400330: ske1CD_1 1
+    400332: skp14B
+    400334: skp14B 1
+    400336: skp_camera_Last_Saved_SketchUp_View
+    400338: //RootNode
+    400340: ZChair
+    400342: ZChair 1
+    2300000: group_1
+    2300002: group_10
+    2300004: group_12
+    2300006: group_13
+    2300008: group_14
+    2300010: group_15
+    2300012: group_16
+    2300014: group_2
+    2300016: group_20
+    2300018: group_20 1
+    2300020: group_21
+    2300022: group_21 1
+    2300024: group_22
+    2300026: group_22 1
+    2300028: group_23
+    2300030: group_23 1
+    2300032: group_26
+    2300034: group_26 1
+    2300036: group_27
+    2300038: group_27 1
+    2300040: group_28
+    2300042: group_28 1
+    2300044: group_29
+    2300046: group_29 1
+    2300048: group_3
+    2300050: group_30
+    2300052: group_33
+    2300054: group_33 1
+    2300056: group_34
+    2300058: group_34 1
+    2300060: group_35
+    2300062: group_35 1
+    2300064: group_37
+    2300066: group_38
+    2300068: Group_383
+    2300070: Group_383 1
+    2300072: Group_383 2
+    2300074: Group_383 3
+    2300076: Group_384
+    2300078: Group_384 1
+    2300080: Group_384 2
+    2300082: Group_384 3
+    2300084: group_39
+    2300086: Group_398
+    2300088: Group_398 1
+    2300090: Group_398 2
+    2300092: Group_398 3
+    2300094: group_4
+    2300096: group_40
+    2300098: Group_404
+    2300100: Group_404 1
+    2300102: Group_404 2
+    2300104: Group_404 3
+    2300106: Group_404 4
+    2300108: Group_404 5
+    2300110: Group_404 6
+    2300112: Group_404 7
+    2300114: Group_405
+    2300116: Group_405 1
+    2300118: Group_405 10
+    2300120: Group_405 11
+    2300122: Group_405 12
+    2300124: Group_405 2
+    2300126: Group_405 3
+    2300128: Group_405 4
+    2300130: Group_405 5
+    2300132: Group_405 6
+    2300134: Group_405 7
+    2300136: Group_405 8
+    2300138: Group_405 9
+    2300140: group_42
+    2300142: group_43
+    2300144: group_44
+    2300146: group_45
+    2300148: group_6
+    2300150: Group_751
+    2300152: Group_751 1
+    2300154: group_8
+    2300156: group_9
+    2300158: ID105
+    2300160: ID126
+    2300162: ID147
+    2300164: ID707
+    2300166: ID715
+    2300168: ID725
+    2300170: ID733
+    2300172: ID741
+    2300174: ID749
+    2300176: ID757
+    2300178: ID765
+    2300180: ID773
+    2300182: ID781
+    2300184: ID789
+    2300186: ID813
+    2300188: ID821
+    2300190: ID831
+    2300192: ID839
+    2300194: ID847
+    2300196: ID855
+    2300198: ID863
+    2300200: ID871
+    2300202: ID879
+    2300204: ID887
+    2300206: ID895
+    2300208: ZChair
+    2300210: ZChair 1
+    3300000: group_1
+    3300002: group_10
+    3300004: group_12
+    3300006: group_13
+    3300008: group_14
+    3300010: group_15
+    3300012: group_16
+    3300014: group_2
+    3300016: group_20
+    3300018: group_20 1
+    3300020: group_21
+    3300022: group_21 1
+    3300024: group_22
+    3300026: group_22 1
+    3300028: group_23
+    3300030: group_23 1
+    3300032: group_26
+    3300034: group_26 1
+    3300036: group_27
+    3300038: group_27 1
+    3300040: group_28
+    3300042: group_28 1
+    3300044: group_29
+    3300046: group_29 1
+    3300048: group_3
+    3300050: group_30
+    3300052: group_33
+    3300054: group_33 1
+    3300056: group_34
+    3300058: group_34 1
+    3300060: group_35
+    3300062: group_35 1
+    3300064: group_37
+    3300066: group_38
+    3300068: Group_383
+    3300070: Group_383 1
+    3300072: Group_383 2
+    3300074: Group_383 3
+    3300076: Group_384
+    3300078: Group_384 1
+    3300080: Group_384 2
+    3300082: Group_384 3
+    3300084: group_39
+    3300086: Group_398
+    3300088: Group_398 1
+    3300090: Group_398 2
+    3300092: Group_398 3
+    3300094: group_4
+    3300096: group_40
+    3300098: Group_404
+    3300100: Group_404 1
+    3300102: Group_404 2
+    3300104: Group_404 3
+    3300106: Group_404 4
+    3300108: Group_404 5
+    3300110: Group_404 6
+    3300112: Group_404 7
+    3300114: Group_405
+    3300116: Group_405 1
+    3300118: Group_405 10
+    3300120: Group_405 11
+    3300122: Group_405 12
+    3300124: Group_405 2
+    3300126: Group_405 3
+    3300128: Group_405 4
+    3300130: Group_405 5
+    3300132: Group_405 6
+    3300134: Group_405 7
+    3300136: Group_405 8
+    3300138: Group_405 9
+    3300140: group_42
+    3300142: group_43
+    3300144: group_44
+    3300146: group_45
+    3300148: group_6
+    3300150: Group_751
+    3300152: Group_751 1
+    3300154: group_8
+    3300156: group_9
+    3300158: ID105
+    3300160: ID126
+    3300162: ID147
+    3300164: ID707
+    3300166: ID715
+    3300168: ID725
+    3300170: ID733
+    3300172: ID741
+    3300174: ID749
+    3300176: ID757
+    3300178: ID765
+    3300180: ID773
+    3300182: ID781
+    3300184: ID789
+    3300186: ID813
+    3300188: ID821
+    3300190: ID831
+    3300192: ID839
+    3300194: ID847
+    3300196: ID855
+    3300198: ID863
+    3300200: ID871
+    3300202: ID879
+    3300204: ID887
+    3300206: ID895
+    3300208: ZChair
+    3300210: ZChair 1
+    4300000: group_1
+    4300002: group_2
+    4300004: group_3
+    4300006: group_4
+    4300008: Group_405
+    4300010: group_6
+    4300012: Group_405
+    4300014: group_8
+    4300016: ID105
+    4300018: group_9
+    4300020: ID126
+    4300022: group_10
+    4300024: ID147
+    4300026: Group_398
+    4300028: group_12
+    4300030: group_13
+    4300032: group_14
+    4300034: group_15
+    4300036: Group_384
+    4300038: Group_384
+    4300040: Group_383
+    4300042: Group_404
+    4300044: Group_751
+    4300046: group_16
+    4300048: group_20
+    4300050: group_21
+    4300052: group_22
+    4300054: group_23
+    4300056: group_26
+    4300058: group_27
+    4300060: group_28
+    4300062: group_29
+    4300064: group_30
+    4300066: group_33
+    4300068: group_34
+    4300070: group_35
+    4300072: group_37
+    4300074: group_38
+    4300076: group_39
+    4300078: group_40
+    4300080: group_42
+    4300082: group_43
+    4300084: group_44
+    4300086: group_45
+    4300088: Group_384
+    4300090: Group_384
+    4300092: Group_383
+    4300094: Group_404
+    4300096: group_33
+    4300098: group_34
+    4300100: group_35
+    4300102: group_20
+    4300104: group_21
+    4300106: group_22
+    4300108: Group_405
+    4300110: group_23
+    4300112: group_26
+    4300114: group_27
+    4300116: group_28
+    4300118: group_29
+    4300120: ZChair
+    4300122: ID707
+    4300124: ID715
+    4300126: ID725
+    4300128: ID733
+    4300130: ID741
+    4300132: ID749
+    4300134: ID757
+    4300136: ID765
+    4300138: ID773
+    4300140: ID781
+    4300142: ID789
+    4300144: ZChair
+    4300146: ID813
+    4300148: ID821
+    4300150: ID831
+    4300152: ID839
+    4300154: ID847
+    4300156: ID855
+    4300158: ID863
+    4300160: ID871
+    4300162: ID879
+    4300164: ID887
+    4300166: ID895
+    6400000: group_1
+    6400002: group_10
+    6400004: group_12
+    6400006: group_13
+    6400008: group_14
+    6400010: group_15
+    6400012: group_16
+    6400014: group_2
+    6400016: group_20
+    6400018: group_20 1
+    6400020: group_21
+    6400022: group_21 1
+    6400024: group_22
+    6400026: group_22 1
+    6400028: group_23
+    6400030: group_23 1
+    6400032: group_26
+    6400034: group_26 1
+    6400036: group_27
+    6400038: group_27 1
+    6400040: group_28
+    6400042: group_28 1
+    6400044: group_29
+    6400046: group_29 1
+    6400048: group_3
+    6400050: group_30
+    6400052: group_33
+    6400054: group_33 1
+    6400056: group_34
+    6400058: group_34 1
+    6400060: group_35
+    6400062: group_35 1
+    6400064: group_37
+    6400066: group_38
+    6400068: Group_383
+    6400070: Group_383 1
+    6400072: Group_383 2
+    6400074: Group_383 3
+    6400076: Group_384
+    6400078: Group_384 1
+    6400080: Group_384 2
+    6400082: Group_384 3
+    6400084: group_39
+    6400086: Group_398
+    6400088: Group_398 1
+    6400090: Group_398 2
+    6400092: Group_398 3
+    6400094: group_4
+    6400096: group_40
+    6400098: Group_404
+    6400100: Group_404 1
+    6400102: Group_404 2
+    6400104: Group_404 3
+    6400106: Group_404 4
+    6400108: Group_404 5
+    6400110: Group_404 6
+    6400112: Group_404 7
+    6400114: Group_405
+    6400116: Group_405 1
+    6400118: Group_405 10
+    6400120: Group_405 11
+    6400122: Group_405 12
+    6400124: Group_405 2
+    6400126: Group_405 3
+    6400128: Group_405 4
+    6400130: Group_405 5
+    6400132: Group_405 6
+    6400134: Group_405 7
+    6400136: Group_405 8
+    6400138: Group_405 9
+    6400140: group_42
+    6400142: group_43
+    6400144: group_44
+    6400146: group_45
+    6400148: group_6
+    6400150: Group_751
+    6400152: Group_751 1
+    6400154: group_8
+    6400156: group_9
+    6400158: ID105
+    6400160: ID126
+    6400162: ID147
+    6400164: ID707
+    6400166: ID715
+    6400168: ID725
+    6400170: ID733
+    6400172: ID741
+    6400174: ID749
+    6400176: ID757
+    6400178: ID765
+    6400180: ID773
+    6400182: ID781
+    6400184: ID789
+    6400186: ID813
+    6400188: ID821
+    6400190: ID831
+    6400192: ID839
+    6400194: ID847
+    6400196: ID855
+    6400198: ID863
+    6400200: ID871
+    6400202: ID879
+    6400204: ID887
+    6400206: ID895
+    6400208: ZChair
+    6400210: ZChair 1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.02
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
