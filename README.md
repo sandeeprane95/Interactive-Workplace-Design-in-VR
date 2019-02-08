@@ -37,3 +37,7 @@ To run the project on your desktop, use the following steps.
 
 Alternatively, you can also start the project by running the Executable file directly.  
 
+## Download Link
+
+You can download the entire project from this link : https://drive.google.com/a/uic.edu/uc?export=download&confirm=6Unn&id=0B-x2C4Gh892AMnpQTWtpZ3hYeHc  
+
